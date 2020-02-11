@@ -1,0 +1,50 @@
+:root {
+  font-size: 16px;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #e0ffff;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+  background-color: #7fffd4;
+}
+
+.header {
+  padding-top: 40px;
+}
+
+.header > h1 {
+  margin: 0 0 50px;
+  font-size: 3.5rem;
+  text-align: center;
+  overflow: visible;
+}
+
+.header__container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header__img {
+  width: 350px;
+  border-radius: 50%;
+}
+
+.header__name {
+  font-size: 3rem;
+  font-weight: bold;
+  font-style: italic;
+  color: #708090;
+}
