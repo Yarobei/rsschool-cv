@@ -3,6 +3,7 @@
 1. My name is Dmitry Bogodyazh.
 2. Contact info:
     - Phone number: *+375-29-3911784*.
+    - E-mail: *dima3911784@hotmail.com*
 3. My goal is to develop in the chosen direction (Frontend-development), improve my skills in HTML, CSS, JS, meet like-minded people, share my knowledge with them.
 4. Skills:
     - HTML, CSS, JS;
