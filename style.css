@@ -60,7 +60,6 @@ body {
 .header__name {
   font-size: 3.5rem;
   font-weight: bold;
-  /* font-style: italic; */
   color: #fff;
 }
 
@@ -69,10 +68,6 @@ body {
   flex-flow: row nowrap;
   margin-top: 50px;
 }
-
-/* .main__article + .main__article {
-  margin-top: 50px;
-} */
 
 .main__article > h2 {
   margin: 0;
